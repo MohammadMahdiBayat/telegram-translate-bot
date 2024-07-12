@@ -1,0 +1,548 @@
+============[Date]============
+[ 2024-07-08 22:48:23  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Timed out
+=========[Sent Data]==========
+[ref]
+ref.update_id= 654780270
+ref.message.message_id= 3
+ref.message.from.id= 6626663690
+ref.message.from.is_bot= false
+ref.message.from.first_name= Mohammad Mahdi
+ref.message.from.last_name= Bayat
+ref.message.from.username= MrBayatDev
+ref.message.from.language_code= en
+ref.message.chat.id= 6626663690
+ref.message.chat.first_name= Mohammad Mahdi
+ref.message.chat.last_name= Bayat
+ref.message.chat.username= MrBayatDev
+ref.message.chat.type= private
+ref.message.date= 1720471651
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.reply_markup= {"inline_keyboard":[[{"text":"\u0628\u0632\u0646 \u0628\u0631\u06cc\u0645","callback_data":"\/home"}]]}
+ref.text= برای شروع آماده ای؟!
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1864): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(125): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(183): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(17): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-07-08 22:48:35  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		7
+curl_error:		Failed to connect to api.telegram.org port 443: Connection was aborted
+=========[Sent Data]==========
+[ref]
+ref.update_id= 654780271
+ref.message.message_id= 4
+ref.message.from.id= 6626663690
+ref.message.from.is_bot= false
+ref.message.from.first_name= Mohammad Mahdi
+ref.message.from.last_name= Bayat
+ref.message.from.username= MrBayatDev
+ref.message.from.language_code= en
+ref.message.chat.id= 6626663690
+ref.message.chat.first_name= Mohammad Mahdi
+ref.message.chat.last_name= Bayat
+ref.message.chat.username= MrBayatDev
+ref.message.chat.type= private
+ref.message.date= 1720471666
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.reply_markup= {"inline_keyboard":[[{"text":"\u0628\u0632\u0646 \u0628\u0631\u06cc\u0645","callback_data":"\/home"}]]}
+ref.text= برای شروع آماده ای؟!
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1864): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(125): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(183): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(17): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-07-08 22:50:05  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Timed out
+=========[Sent Data]==========
+[ref]
+ref.update_id= 654780271
+ref.message.message_id= 4
+ref.message.from.id= 6626663690
+ref.message.from.is_bot= false
+ref.message.from.first_name= Mohammad Mahdi
+ref.message.from.last_name= Bayat
+ref.message.from.username= MrBayatDev
+ref.message.from.language_code= en
+ref.message.chat.id= 6626663690
+ref.message.chat.first_name= Mohammad Mahdi
+ref.message.chat.last_name= Bayat
+ref.message.chat.username= MrBayatDev
+ref.message.chat.type= private
+ref.message.date= 1720471666
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.reply_markup= {"inline_keyboard":[[{"text":"\u0628\u0632\u0646 \u0628\u0631\u06cc\u0645","callback_data":"\/home"}]]}
+ref.text= برای شروع آماده ای؟!
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1864): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(125): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(183): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(17): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-07-08 22:50:26  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Timed out
+=========[Sent Data]==========
+[ref]
+ref.update_id= 654780272
+ref.message.message_id= 5
+ref.message.from.id= 6626663690
+ref.message.from.is_bot= false
+ref.message.from.first_name= Mohammad Mahdi
+ref.message.from.last_name= Bayat
+ref.message.from.username= MrBayatDev
+ref.message.from.language_code= en
+ref.message.chat.id= 6626663690
+ref.message.chat.first_name= Mohammad Mahdi
+ref.message.chat.last_name= Bayat
+ref.message.chat.username= MrBayatDev
+ref.message.chat.type= private
+ref.message.date= 1720471789
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.reply_markup= {"inline_keyboard":[[{"text":"\u0628\u0632\u0646 \u0628\u0631\u06cc\u0645","callback_data":"\/home"}]]}
+ref.text= برای شروع آماده ای؟!
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1864): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(125): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(183): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(17): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-07-08 22:56:23  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Timed out
+=========[Sent Data]==========
+[ref]
+ref.update_id= 654780273
+ref.message.message_id= 6
+ref.message.from.id= 6626663690
+ref.message.from.is_bot= false
+ref.message.from.first_name= Mohammad Mahdi
+ref.message.from.last_name= Bayat
+ref.message.from.username= MrBayatDev
+ref.message.from.language_code= en
+ref.message.chat.id= 6626663690
+ref.message.chat.first_name= Mohammad Mahdi
+ref.message.chat.last_name= Bayat
+ref.message.chat.username= MrBayatDev
+ref.message.chat.type= private
+ref.message.date= 1720472162
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.reply_markup= {"inline_keyboard":[[{"text":"\u0628\u0632\u0646 \u0628\u0631\u06cc\u0645","callback_data":"\/home"}]]}
+ref.text= برای شروع آماده ای؟!
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1864): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(125): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(183): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(17): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-07-08 22:57:36  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Timed out
+=========[Sent Data]==========
+[ref]
+ref.update_id= 654780276
+ref.message.message_id= 7
+ref.message.from.id= 6626663690
+ref.message.from.is_bot= false
+ref.message.from.first_name= Mohammad Mahdi
+ref.message.from.last_name= Bayat
+ref.message.from.username= MrBayatDev
+ref.message.from.language_code= en
+ref.message.chat.id= 6626663690
+ref.message.chat.first_name= Mohammad Mahdi
+ref.message.chat.last_name= Bayat
+ref.message.chat.username= MrBayatDev
+ref.message.chat.type= private
+ref.message.date= 1720472230
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.reply_markup= {"inline_keyboard":[[{"text":"\u0628\u0632\u0646 \u0628\u0631\u06cc\u0645","callback_data":"\/home"}]]}
+ref.text= برای شروع آماده ای؟!
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1864): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(125): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(183): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(17): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-07-08 22:57:57  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Timed out
+=========[Sent Data]==========
+[ref]
+ref.update_id= 654780277
+ref.message.message_id= 8
+ref.message.from.id= 6626663690
+ref.message.from.is_bot= false
+ref.message.from.first_name= Mohammad Mahdi
+ref.message.from.last_name= Bayat
+ref.message.from.username= MrBayatDev
+ref.message.from.language_code= en
+ref.message.chat.id= 6626663690
+ref.message.chat.first_name= Mohammad Mahdi
+ref.message.chat.last_name= Bayat
+ref.message.chat.username= MrBayatDev
+ref.message.chat.type= private
+ref.message.date= 1720472230
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.reply_markup= {"inline_keyboard":[[{"text":"\u0628\u0632\u0646 \u0628\u0631\u06cc\u0645","callback_data":"\/home"}]]}
+ref.text= برای شروع آماده ای؟!
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1864): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(125): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(183): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(17): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-07-08 22:58:19  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Timed out
+=========[Sent Data]==========
+[ref]
+ref.update_id= 654780278
+ref.message.message_id= 9
+ref.message.from.id= 6626663690
+ref.message.from.is_bot= false
+ref.message.from.first_name= Mohammad Mahdi
+ref.message.from.last_name= Bayat
+ref.message.from.username= MrBayatDev
+ref.message.from.language_code= en
+ref.message.chat.id= 6626663690
+ref.message.chat.first_name= Mohammad Mahdi
+ref.message.chat.last_name= Bayat
+ref.message.chat.username= MrBayatDev
+ref.message.chat.type= private
+ref.message.date= 1720472269
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1864): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(125): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(183): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(7): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-07-08 22:58:58  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Timed out
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Test
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1864): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(125): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(183): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(7): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-07-08 22:59:00  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Timed out
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Test
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1864): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(125): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(183): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(7): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-07-08 22:59:10  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Timed out
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Test
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1864): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(125): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(183): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(7): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-07-08 23:00:14  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Timed out
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Test
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1864): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(125): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(183): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(7): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-07-08 23:00:16  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Timed out
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Test
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1864): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(125): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(183): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(7): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-07-08 23:02:00  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Timed out
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Test
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1864): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(125): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(183): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(7): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-07-08 23:02:02  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Timed out
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Test
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1864): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(125): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(183): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(7): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-07-08 23:02:51  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Timed out
+=========[Sent Data]==========
+[ref]
+ref.update_id= 654780279
+ref.message.message_id= 10
+ref.message.from.id= 6626663690
+ref.message.from.is_bot= false
+ref.message.from.first_name= Mohammad Mahdi
+ref.message.from.last_name= Bayat
+ref.message.from.username= MrBayatDev
+ref.message.from.language_code= en
+ref.message.chat.id= 6626663690
+ref.message.chat.first_name= Mohammad Mahdi
+ref.message.chat.last_name= Bayat
+ref.message.chat.username= MrBayatDev
+ref.message.chat.type= private
+ref.message.date= 1720472548
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1864): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(125): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(183): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(7): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-07-08 23:15:58  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Timed out
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Test
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1864): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(125): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(183): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(7): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-07-08 23:16:24  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Timed out
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Test
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1864): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(125): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(183): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(7): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-07-08 23:19:35  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Timed out
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Test
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(1862): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(124): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telegram-translate-bot\Telegram.php(182): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telegram-translate-bot\index.php(7): Telegram->sendMessage(Array)
+#4 {main}
+
